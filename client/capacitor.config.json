@@ -1,0 +1,13 @@
+{
+  "appId": "technologies.genesis.gensuite",
+  "appName": "gen-suite",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/spa",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
